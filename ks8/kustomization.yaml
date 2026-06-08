@@ -11,4 +11,4 @@ resources:
 images:
 - name: vencce/registro-atividades-backend
   newName: vencce/registro-atividades-backend
-  newTag: 6a99cbcd299ce461e79d8c64645a5cc577278b8a
+  newTag: bfb6cbd13439f2f2099f5d8ee45fab54c1e987ef
