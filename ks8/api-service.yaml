@@ -8,6 +8,6 @@ spec:
     app: registro-atividades-api
   ports:
     - protocol: TCP
-      port: 8001
-      targetPort: 8001
+      port: 8080
+      targetPort: 8080
   type: ClusterIP
