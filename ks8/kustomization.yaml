@@ -9,6 +9,6 @@ resources:
   - api-deployment.yaml
   - api-service.yaml
 images:
-  - name: eduardosilvasc/registro-atividades-backend
-    newName: eduardosilvasc/registro-atividades-backend
+  - name: vencce/registro-atividades-backend
+    newName: vencce/registro-atividades-backend
     newTag: latest
